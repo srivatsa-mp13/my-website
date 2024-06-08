@@ -27,10 +27,11 @@ twitter_username: Srivatsa_mp
 github_username: srivatsa-mp13
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: "minimal-mistakes"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+markdown: kramdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
