@@ -27,7 +27,7 @@ twitter_username: Srivatsa_mp
 github_username: srivatsa-mp13
 
 # Build settings
-theme: "minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
