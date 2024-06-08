@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-![Srivatsa Panduranga]({{ '/assets/images/profile.jpg' | relative_url }})
+<img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Srivatsa Panduranga" style="width:200px; float:left; margin-right:20px;"/>
 
 # About Me
 
