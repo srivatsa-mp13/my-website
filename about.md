@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Me"
+title: ""
 permalink: /about/
 ---
 
@@ -8,8 +8,8 @@ permalink: /about/
 
 # About Srivatsa
 
-Srivatsa Panduranga is an accomplished Electrical Engineer with a strong background in analog and mixed-signal circuit design. He completed his Master's degree in Electrical Engineering from Columbia University in February 2021, focusing on integrated circuits and systems. During his time at Columbia, Srivatsa served as a Teaching Assistant for the Analog Filters Synthesis/Design course and was recognized for his contributions to the field.
+Srivatsa Panduranga is a Design Engineer with a strong background in analog and mixed-signal circuit design. He completed his Bachelor's Degree in Electronics and Communication Engineering from R.V.College of Engineering, India in 2017. He completed his Master's degree in Electrical Engineering from Columbia University, USA in 2021. 
 
-He is currently pursuing a career in circuit design and has a passion for creating innovative solutions in electronics and communication systems. Srivatsa has also been involved in various research projects and has demonstrated outstanding achievement in his academic and professional endeavors.
+He is currently pursuing a career in mixed signal circuit design at Analog Devices for the past 3 years focusing on ADCs and DACs. His interests also include analog and RF design in communication. He has previously worked at a startup in Bengaluru called Signalchip as a Design Engineer for 2 years. He also has pursued Mixed signal/RF design internships at Microsoft and Mixcomm (acquired by Sivers Semiconductors).
 
 For more details about his professional journey and accomplishments, visit [Srivatsa Panduranga's LinkedIn profile](https://www.linkedin.com/in/srivatsa-panduranga).
