@@ -1,0 +1,46 @@
+/* assets/css/custom.css */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.site-header {
+  background-size: contain;
+  background-position: top;
+  height: 100px;
+  color: White;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.site-title {
+  margin: 0;
+  padding: 0;
+  font-size: 3em;
+}
+
+.site-nav {
+  margin-top: 20px;
+}
+
+.site-nav a {
+  color: White;
+  text-decoration: none;
+  margin: 0 10px;
+  font-size: 1.5em;
+}
+
+.site-footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.content {
+  padding: 20px;
+}

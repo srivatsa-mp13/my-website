@@ -1,8 +1,11 @@
-<header>
-  <h1>{{ site.title }}</h1>
-  <nav>
-    <a href="{{ site.baseurl }}/">Home</a>
-    <a href="{{ site.baseurl }}/about">About</a>
-    <a href="{{ site.baseurl }}/contact">Contact</a>
-  </nav>
+<header class="site-header" style="background-image: url('{{ '/assets/images/header-bg.jpg' | relative_url }}');">
+  <div class="wrapper">
+    <h1 class="site-title">{{ site.title }}</h1>
+    <nav class="site-nav">
+      <a href="{{ site.baseurl }}/">Home</a>
+      <a href="{{ site.baseurl }}/about">About</a>
+      <a href="{{ site.baseurl }}/contact">Contact</a>
+      <a href="{{ site.baseurl }}/blog">Blog</a>
+    </nav>
+  </div>
 </header>
