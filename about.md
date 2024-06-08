@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "About"
+title: "About Me"
 permalink: /about/
 ---
 
-<img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Srivatsa Panduranga" style="width:20px; float:left; margin-right:20px;"/>
+<img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Srivatsa Panduranga" style="width:200px; float:left; margin-right:20px;"/>
 
-# About Me
+# About Srivatsa
 
 Srivatsa Panduranga is an accomplished Electrical Engineer with a strong background in analog and mixed-signal circuit design. He completed his Master's degree in Electrical Engineering from Columbia University in February 2021, focusing on integrated circuits and systems. During his time at Columbia, Srivatsa served as a Teaching Assistant for the Analog Filters Synthesis/Design course and was recognized for his contributions to the field.
 
